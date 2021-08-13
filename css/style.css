@@ -1,5 +1,6 @@
   body {
     padding: 50px 100px;
+    background-color:aquamarine;
   }
 
   .title {
@@ -20,4 +21,9 @@
 
     margin-top: 50px;
     width: 200px;
+  }
+  .test{
+    display: flex;
+    flex-direction: column;
+    
   }
