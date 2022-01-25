@@ -9,9 +9,12 @@ import './js/renderUserLibrary';
 // ==========Document Auth=========
 // import "./js/fireBaseApi";
 // ==========Document MAIN========
+import "./js/FetchTrandingMovies.js";
+import "./js/renderTrandingMovies";
 // import "./js/gallery";
-import './js/card';
+import "./js/FetchMovieInformation";
 import './js/pagination';
-import './js/loader';
+import "./js/loader";
+
 // ==========Document FOOTER=========
 // import "./js/footer";
